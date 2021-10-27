@@ -4,7 +4,9 @@
 
 ### Textbook Structure
 The textbook has 7 lessons with the following structure:
- 1. Introductory Lesson - Q A
+ 1. Introductory Lessons:
+     * How to use jupyter notebooks
+     * Introduction to Pandas
  2. Applied lessons:
      * Input and Output - Q A
      * Manipulation of Data - Q A
