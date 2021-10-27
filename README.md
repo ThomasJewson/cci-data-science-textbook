@@ -4,13 +4,15 @@
 
 ### Textbook Structure
 The textbook has 7 lessons with the following structure:
- 1. Introductory Lesson - Q A
+ 1. Introductory Lessons:
+     * How to use jupyter notebooks
+     * Introduction to Pandas
  2. Applied lessons:
-     * Input and Output - Q A
-     * Manipulation of Data - Q A
-     * Graphs - Q A
-     * Descriptive Statistics - Q A
-     * Linear Regression and Correlation - Q A
+     * Input and Output - Questions
+     * Manipulation of Data - Questions
+     * Graphs - Questions
+     * Descriptive Statistics - Questions
+     * Linear Regression and Correlation - Questions
 
 Each lesson has a set of 5 questions which should be answered and self-marked. 
 
